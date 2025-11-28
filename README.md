@@ -11,4 +11,4 @@ This is a site created by: Bruno Ferrari Lacerra, Henrique Gonçalves, Luis Henr
 Um site contendo 6 páginas html, css e js, para o seminário da disciplina "Laboratório de Programação II" <br />
 Sendo então o tema escolhido a loja "LUV TULIP STORE" propriedade de Ana Clara de Andrade Silva. <br />
 
-## Crated by FIRMA LTDA. & Ana Clara
+## Created by FIRMA LTDA. & Ana Clara
